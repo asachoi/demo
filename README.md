@@ -70,4 +70,4 @@ To know more about the **Options**, please check the [documentation](http://roun
 
 ### Licence
 
-roundSlider is licensed under the terms of the [MIT license](http://roundsliderui.com/licence.html "roundSlider - MIT licence").
+roundSlider is licensed under the terms of the [MIT license](http://roundsliderui.com/licence.html "roundSlider - MIT licence")."# demo" 
